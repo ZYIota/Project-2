@@ -16,7 +16,7 @@
 | [MPU6050](https://sg.shp.ee/yLnzbbYs) | Accelerometer | 1 | $4.29 | $4.29 | [Rocora.sg](https://sg.shp.ee/yLnzbbYs) |
 | [XIAO ESP32-C3](https://sg.shp.ee/rAycLDin) | Main brain | 1 | $17.64 | $17.64 | [Isinwei.sg](https://sg.shp.ee/rAycLDin) |
 | **Parts subtotal** | — | — | — | **$26.06** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$26.06** | — |
+| **Tax & shipping** | — | — | — | **$2.95** | — |
+| **Total** | — | — | — | **$29.01** | — |
 
-$3.94 left of the tier's funding.
+$0.99 left of the tier's funding.
