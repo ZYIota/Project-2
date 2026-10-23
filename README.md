@@ -31,4 +31,9 @@ BACK VIEW:
 Assembling it requires the pins of correct components matched with the corresponding sections of the PCB, and to physically connect them requires soldering, which uses a soldering iron to melt a solder wire to allow electricity flow while physically sticking to each other
 
 
+Materials and cost(BOM) 
+[Download CSV BOM](./BOM.csv)
+
+
+
 
