@@ -31,8 +31,18 @@ BACK VIEW:
 Assembling it requires the pins of correct components matched with the corresponding sections of the PCB, and to physically connect them requires soldering, which uses a soldering iron to melt a solder wire to allow electricity flow while physically sticking to each other
 
 
-Materials and cost(BOM) 
-[Download CSV BOM](./BOM.csv)
+## Bill of Materials (BOM)
+
+| Reference | Qty | Value | Footprint |
+|---|---:|---|---|
+| J1 | 1 | Conn_01x04_Pin | Imported Parts:Display_128x64_096_I2C |
+| J2 | 1 | Conn_01x08_Pin | Imported Parts:MPU6050_Module |
+| R1 | 1 | 10K | Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal |
+| SW1, SW2 | 2 | SW_Push | Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB |
+| U1 | 1 | XIAO-ESP32-C6-DIP | Imported Parts:XIAO-ESP32-C6-DIP |
+| U2 | 1 | DHT11 | Sensor:Aosong_DHT11_5.5x12.0_P2.54mm |
+
+
 
 
 
